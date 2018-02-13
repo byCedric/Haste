@@ -1,0 +1,32 @@
+{
+	"name": "@bycedric/haste",
+	"version": "0.1.0",
+	"description": "No time to waste",
+	"main": "index.js",
+	"bin": "./bin/haste",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/bycedric/haste.git"
+	},
+	"keywords": [
+		"haste",
+		"time",
+		"report",
+		"cli"
+	],
+	"author": "Cedric van Putten <me@bycedric.com> (https://bycedric.com)",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/bycedric/haste/issues"
+	},
+	"homepage": "https://haste.sh",
+	"devDependencies": {
+		"typescript": "^2.7.1"
+	},
+	"dependencies": {
+		"commander": "^2.14.1"
+	}
+}

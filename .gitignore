@@ -1,0 +1,11 @@
+# Project
+/build
+
+# NPM & Yarn
+/node_modules
+npm-debug.log*
+package-lock.json
+yarn-error.log
+
+# MacOS
+.DS_Store

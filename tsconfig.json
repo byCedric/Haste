@@ -1,0 +1,19 @@
+{
+	"compilerOptions": {
+		"declaration": false,
+		"isolatedModules": false,
+		"lib": ["es2017"],
+		"module": "commonjs",
+		"moduleResolution": "node",
+		"noImplicitAny": true,
+		"noUnusedLocals": true,
+		"noUnusedParameters": true,
+		"outDir": "./build",
+		"rootDir": "./src",
+		"strictNullChecks": true,
+		"target": "es6"
+	},
+	"include": [
+		"./src/**/*.ts"
+	]
+}
